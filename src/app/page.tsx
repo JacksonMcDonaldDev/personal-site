@@ -3,23 +3,13 @@ import Links from '@/components/links'
 export default function Home() {
   return (
     <div className="font-base">
-      <h1 className="text-2xl font-heading sm:text-4xl">John Doe</h1>
-      <p className="mt-2 text-lg sm:text-xl">Software Engineer</p>
+      <h1 className="text-2xl font-heading sm:text-4xl">Jackson McDonald</h1>
+      <p className="mt-2 text-lg sm:text-xl">Software Engineer | Product Manager</p>
       <div className="mt-8 text-base sm:text-lg">
-        <p>Hi, my name is John Doe, software engineer based in NYC.</p>
-
-        <br />
-
         <p>
-          This is the neobrutalism portfolio template. Check the{' '}
-          <a
-            target="_blank"
-            className="font-heading underline"
-            href="https://github.com/neobrutalism-templates/portfolio"
-          >
-            github repo
-          </a>{' '}
-          for more info.
+          Software Engineer and Product Manager who ships product and writes the
+          code behind it. I build in TypeScript, React, Python and Node.js while
+          owning roadmaps, user research, and stakeholder alignment.
         </p>
       </div>
 

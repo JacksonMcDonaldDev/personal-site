@@ -8,10 +8,12 @@ export default function About() {
 
       <div className="mb-10 text-base sm:text-lg">
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est
-          consequatur, harum pariatur provident rerum placeat magni voluptas
-          consectetur in exercitationem nobis aut, molestiae iure possimus
-          aspernatur nesciunt laudantium ab atque.
+          Software Engineer and Product Manager who ships product and writes the
+          code behind it. My work includes engineering a bulk provisioning system
+          that cut user onboarding time by 85%, rapidly prototyping and shipping
+          a playable ad MVP to validate a new acquisition channel, and
+          revitalizing stalled development lifecycles as a product consultant. I
+          deliver software that drives measurable business outcomes.
         </p>
       </div>
 

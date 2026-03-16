@@ -8,7 +8,7 @@
   --secondary-background: oklch(100% 0 0);
   --foreground: oklch(0% 0 0);
   --main-foreground: oklch(0% 0 0);
-  --main: oklch(72.27% 0.1894 50.19);
+  --main: oklch(0.8 0.2 68.61);
   --border: oklch(0% 0 0);
   --ring: oklch(0% 0 0);
   --overlay: oklch(0% 0 0 / 0.8);
@@ -20,7 +20,7 @@
   --secondary-background: oklch(23.93% 0 0);
   --foreground: oklch(92.49% 0 0);
   --main-foreground: oklch(0% 0 0);
-  --main: oklch(67.56% 0.1796 49.61);
+  --main: oklch(0.8 0.2 68.61);
   --border: oklch(0% 0 0);
   --ring: oklch(100% 0 0);
   --shadow: 4px 4px 0px 0px var(--border);

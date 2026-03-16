@@ -6,28 +6,28 @@ const PAST_ROLES: {
   endDate: string
 }[] = [
   {
-    company: 'ACME Solutions',
-    role: 'CEO',
+    company: 'Conduction',
+    role: 'Software Engineer / Product Lead',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
-    startDate: 'March 2023',
+      'Identified a critical barrier to classroom adoption through direct user interviews, leading the end-to-end design of a bulk account provisioning system that reduced setup time by ~85%. Architected and developed a playable ad MVP in one week using TypeScript and React to validate a new acquisition channel.',
+    startDate: 'February 2024',
     endDate: 'Now',
   },
   {
-    company: 'Google',
-    role: 'Software Engineer',
+    company: 'HRS Commercial',
+    role: 'Lead Product Consultant',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
-    startDate: 'April 2021',
-    endDate: 'March 2023',
+      'Owned the product roadmap and feature prioritization by translating executive goals into actionable technical specifications. Redesigned the application\'s core navigation and input flows, reducing usability friction. Served as the lead technical decision maker for an external development agency.',
+    startDate: 'February 2025',
+    endDate: 'September 2025',
   },
   {
-    company: 'Vercel',
-    role: 'Developer Advocate',
+    company: '100Devs',
+    role: 'Software Engineer',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
-    startDate: 'April 2021',
-    endDate: 'June 2018',
+      'Built and deployed full-stack web applications for small business clients using React, Node.js, and PostgreSQL, managing the full lifecycle from requirements gathering and wireframing to deployment and handover.',
+    startDate: 'January 2022',
+    endDate: 'January 2024',
   },
 ]
 
