@@ -2,8 +2,9 @@ const PROJECTS: {
   name: string
   description: string
   previewImage: string
-  repoUrl: string
-  liveLink: string
+  liveLink?: string
+  repoUrl?: string
+  company?: string
 }[] = [
   {
     name: 'Project 1',

@@ -7,9 +7,15 @@ export default function Home() {
       <p className="mt-2 text-lg sm:text-xl">Software Engineer | Product Manager</p>
       <div className="mt-8 text-base sm:text-lg">
         <p>
-          Software Engineer and Product Manager who ships product and writes the
-          code behind it. I build in TypeScript, React, Python and Node.js while
-          owning roadmaps, user research, and stakeholder alignment.
+          I'm a Product Engineer that loves taking end-to-end ownership. At
+          Conduction, I'm creating software shaped solutions for user and
+          business needs, like reducing onboarding time by 85% via engineering
+          bulk account provisioning, or prototyping a playable ad MVP in one
+          week to validate marketing strategy. As a consultant, I've saved
+          expensive projects that were sitting on the shelf, aligning
+          stakeholders and wireframing solutions to make the software match the
+          business needs. I'm always looking for new challenges! Mostly, I just
+          love problem solving and finding elegant solutions.
         </p>
       </div>
 

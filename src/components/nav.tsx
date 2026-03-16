@@ -14,8 +14,8 @@ export default function Nav() {
       text: 'Home',
     },
     {
-      path: '/about',
-      text: 'About',
+      path: '/experience',
+      text: 'Experience',
     },
     {
       path: '/work',

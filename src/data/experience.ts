@@ -7,7 +7,7 @@ const PAST_ROLES: {
 }[] = [
   {
     company: 'Conduction',
-    role: 'Software Engineer / Product Lead',
+    role: 'Software Engineer / Product',
     description:
       'Identified a critical barrier to classroom adoption through direct user interviews, leading the end-to-end design of a bulk account provisioning system that reduced setup time by ~85%. Architected and developed a playable ad MVP in one week using TypeScript and React to validate a new acquisition channel.',
     startDate: 'February 2024',
