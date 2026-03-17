@@ -17,15 +17,15 @@ export default function Nav() {
       path: '/experience',
       text: 'Experience',
     },
-    {
-      path: '/work',
-      text: 'Work',
-    },
+    // {
+    //   path: '/work',
+    //   text: 'Work',
+    // },
   ]
 
   return (
     <div className="fixed top-5 left-0 z-50 w-full">
-      <nav className="relative overflow-hidden text-main-foreground border-border shadow-shadow rounded-base bg-main font-base w450:gap-4 mx-auto flex w-max items-center gap-5 border-2 p-2.5 px-5 text-sm sm:text-base">
+      <nav className="text-main-foreground border-border shadow-shadow rounded-base bg-main font-base w450:gap-4 relative mx-auto flex w-max items-center gap-5 overflow-hidden border-2 p-2.5 px-5 text-sm sm:text-base">
         {/* Scanlines */}
         <div
           className="pointer-events-none absolute inset-0 z-10"
@@ -39,7 +39,7 @@ export default function Nav() {
             <Link
               key={link.path}
               className={clsx(
-                'relative z-20 hover:border-border rounded-base border-2 px-2 py-1 transition-colors',
+                'hover:border-border rounded-base relative z-20 border-2 px-2 py-1 transition-colors',
                 path === link.path ? 'border-border' : 'border-transparent',
               )}
               href={link.path}
