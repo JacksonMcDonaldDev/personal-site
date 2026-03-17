@@ -48,6 +48,14 @@ export default function Nav() {
             </Link>
           )
         })}
+        <a
+          href="https://rxresu.me/jacksonmcdonalddev/2026-02-04-swe-pm"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:border-border rounded-base relative z-20 border-2 border-transparent px-2 py-1 transition-colors"
+        >
+          Resume
+        </a>
         <span className="relative z-20">
           <ThemeSwitcher />
         </span>

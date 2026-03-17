@@ -67,7 +67,9 @@ body {
 }
 
 .crt-cursor {
-  animation: blink 1s step-end infinite;
+  animation: blink 1.3s ease-in-out infinite;
+  display: inline-block;
+  transform: scaleX(1.5);
 }
 
 .crt-glow {
