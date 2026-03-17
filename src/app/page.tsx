@@ -11,14 +11,14 @@ export default function Home() {
       </p>
       <div className="mt-8 text-base sm:text-lg">
         <p>
-          I'm a Product Engineer that focuses on taking end-to-end ownership. At
-          Conduction, I'm creating software shaped solutions for user and
+          I&apos;m a Product Engineer that focuses on taking end-to-end ownership. At
+          Conduction, I&apos;m creating software shaped solutions for user and
           business needs, like reducing onboarding time by 85% via engineering
           bulk account provisioning, or prototyping a playable ad MVP in one
-          week to validate marketing strategy. As a consultant, I've saved
+          week to validate marketing strategy. As a consultant, I&apos;ve saved
           expensive projects that were sitting on the shelf, aligning
           stakeholders and wireframing solutions to make the software match the
-          business needs. I'm always looking for new challenges! Mostly, I just
+          business needs. I&apos;m always looking for new challenges! Mostly, I just
           love problem solving and finding elegant solutions.
         </p>
       </div>
