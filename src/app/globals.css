@@ -46,8 +46,32 @@
   --font-weight-heading: 700;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   background-color: var(--background);
+  background-image: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.02) 2px,
+    rgba(0, 0, 0, 0.02) 4px
+  );
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.crt-cursor {
+  animation: blink 1s step-end infinite;
+}
+
+.crt-glow {
+  text-shadow: 0 0 10px var(--main), 0 0 4px var(--main);
 }
 
 body {
