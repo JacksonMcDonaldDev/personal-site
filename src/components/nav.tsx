@@ -49,7 +49,7 @@ export default function Nav() {
           )
         })}
         <a
-          href="https://rxresu.me/jacksonmcdonalddev/2026-02-04-swe-pm"
+          href="https://rxresu.me/jacksonmcdonalddev/public-resume"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:border-border rounded-base relative z-20 border-2 border-transparent px-2 py-1 transition-colors"
