@@ -1,38 +1,17 @@
 const PROJECTS: {
   name: string
   description: string
-  previewImage: string
+  previewImage?: string
+  previewVideo?: string
   liveLink?: string
   repoUrl?: string
   company?: string
 }[] = [
   {
-    name: 'Project 1',
-    description: 'Lorem ipsum dolor sit amet',
-    liveLink: 'https://google.com',
-    previewImage: '/project1.png',
-    repoUrl: 'https://github.com',
-  },
-  {
-    name: 'Project 2',
-    description: 'Lorem ipsum dolor sit amet',
-    liveLink: 'https://google.com',
-    previewImage: '/project2.png',
-    repoUrl: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description: 'Lorem ipsum dolor sit amet',
-    liveLink: 'https://google.com',
-    previewImage: '/project3.png',
-    repoUrl: 'https://github.com',
-  },
-  {
-    name: 'Project 4',
-    description: 'Lorem ipsum dolor sit amet',
-    liveLink: 'https://google.com',
-    previewImage: '/project4.png',
-    repoUrl: 'https://github.com',
+    name: 'Conduction',
+    description: `An ed-tech platform that brings accessible music composition into public and private school classrooms, connecting digital creation to live performance. As a software engineer I've helped bring this project from MVP to district-wide deployments, built frontend and backend features, and worked closely with users to lead product development.`,
+    previewVideo: '/videos/conduction-preview.webm',
+    liveLink: 'https://www.conduction.live/',
   },
 ]
 
