@@ -17,10 +17,10 @@ export default function Nav() {
       path: '/experience',
       text: 'Experience',
     },
-    // {
-    //   path: '/work',
-    //   text: 'Work',
-    // },
+    {
+      path: '/work',
+      text: 'Work',
+    },
   ]
 
   return (
